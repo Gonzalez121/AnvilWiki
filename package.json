@@ -1,6 +1,6 @@
 {
   "name": "anvilwiki",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "\u2692\ufe0f Open-source game wiki template. Astro + Cloudflare Pages. Free, fast, beginner-friendly. Static-first, zero-JS, AI-native content workflow, unlimited bandwidth.",
   "main": "src/index.ts",
   "scripts": {
